@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# YouTube Scraper Files (Personal/Generated Content)
+Youtube_scraper/Channels_scraper.ipynb
+Youtube_scraper/youtube_channel_videos.csv
